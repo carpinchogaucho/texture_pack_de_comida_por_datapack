@@ -1,0 +1,10 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "minecraft:item/tropical_fish"
+    },
+    "overrides":[
+        {"predicate":{"custom_model_data":1}, "model":"custom_food:item/mate"},
+        {"predicate":{"custom_model_data":2}, "model":"custom_food:item/burger"}
+    ]
+}
